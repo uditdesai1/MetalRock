@@ -14,3 +14,5 @@ if b == 'C':
     print(str(a) + '° Celsius is ' + str(ctf) + '° Fahrenheit')
 elif b == 'F':
     print(str(a) + '° Fahrenheit is ' + str(ftc) + '° Celsius')
+
+input('Press Enter to Exit!')
